@@ -2,12 +2,15 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
+import Blogs from './components/Header/Blogs/Blogs'
+import Header from './components/Header/Header'
 
 function App() {
 
   return (
     <>
-      <h1 className='text-6xl font-extrabold font-mono'>Vite + React</h1>
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
