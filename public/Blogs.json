@@ -4,7 +4,7 @@
         "cover": "https://i.ibb.co/JtqpsXy/worker-reading-news-with-tablet.jpg",
         "title": "The Midnight Chronicles",
         "author": "Harper Smith",
-        "author_img": "[Link to author image 1]",
+        "author_img": "../src/assets/images/boy2.png",
         "posted_date": "March 10, 2024",
         "reading_time": 30,
         "hashtags": [
@@ -18,7 +18,7 @@
         "cover": "https://i.ibb.co/JtqpsXy/worker-reading-news-with-tablet.jpg",
         "title": "Shadows of the Past",
         "author": "James Parker",
-        "author_img": "[Link to author image 2]",
+        "author_img": "../src/assets/images/boy2.png",
         "posted_date": "March 5, 2024",
         "reading_time": 25,
         "hashtags": [
@@ -32,7 +32,7 @@
         "cover": "https://i.ibb.co/JtqpsXy/worker-reading-news-with-tablet.jpg",
         "title": "Echoes of Eternity",
         "author": "Emily White",
-        "author_img": "[Link to author image 3]",
+        "author_img": "../src/assets/images/girl2.jpg",
         "posted_date": "March 8, 2024",
         "reading_time": 35,
         "hashtags": [
@@ -46,7 +46,7 @@
         "cover": "https://i.ibb.co/JtqpsXy/worker-reading-news-with-tablet.jpg",
         "title": "Whispers in the Dark",
         "author": "Benjamin Black",
-        "author_img": "[Link to author image 4]",
+        "author_img": "../src/assets/images/girl2.jpg",
         "posted_date": "March 3, 2024",
         "reading_time": 20,
         "hashtags": [
@@ -60,7 +60,7 @@
         "cover": "https://i.ibb.co/JtqpsXy/worker-reading-news-with-tablet.jpg",
         "title": "The Enchanted Garden",
         "author": "Isabella Green",
-        "author_img": "[Link to author image 5]",
+        "author_img": "../src/assets/images/boy2.png",
         "posted_date": "March 12, 2024",
         "reading_time": 40,
         "hashtags": [

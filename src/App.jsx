@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='max-w-[1280px] mx-5 lg:mx-auto flex flex-col lg:flex-row'>
+      <div className='max-w-[1280px] mt-20 mx-5 lg:mx-auto flex flex-col lg:flex-row'>
         <Blogs></Blogs>
         <Bookmarks></Bookmarks>
       </div>
